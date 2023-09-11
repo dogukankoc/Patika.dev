@@ -1,0 +1,1 @@
+## Patika.Dev kursları ödev teslimi için açmış olduğum repositorydir.
